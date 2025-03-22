@@ -25,7 +25,7 @@ CodeGenesis ist ein dynamisches Repository – neue Projekte und Features werden
 
 🔗 Ressourcen & Kontakt
 
-💼 LinkedIn: https://www.linkedin.com/in/tim-wolter-203531356
+💼 LinkedIn: https://www.linkedin.com/in/timwolter-dev
 📂 GitHub: https://github.com/timwolter-dev
 
 🛠 Pull Requests & Issues sind jederzeit willkommen – CodeGenesis lebt von kontinuierlicher Weiterentwicklung!
